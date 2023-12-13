@@ -13,7 +13,8 @@
     "hono": "^3"
   },
   "ampt": {
-    "app": "hono"
+    "app": "hono123",
+    "org": "jeremy-ampt"
   },
   "files": [
     "*"
